@@ -1,0 +1,8 @@
+Package: org.thebigboss.cameranosquare
+Name: NoSquare
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable square (1:1) mode of camera.
+Author: PoomSmart
+Section: Tweaks
